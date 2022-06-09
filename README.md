@@ -1,7 +1,7 @@
 ### Hi, welcome to my Github!
 🔭 I’m currently working on completing my 6 month bootcamp at BloomTech.
 <br>
-🌱 I’m currently learning Full-Stack Web Development! Mastering HTML, CSS, Javascript, React.
+🌱 I’m currently learning Full-Stack Web Development! Mastering React, Javascript, Node, Express, HTML, CSS.
 <br>
 📫 How to reach me: https://www.linkedin.com/in/nathancai97/
 
