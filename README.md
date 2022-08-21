@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nathan!</h1>
 <h3 align="center">I'm a full stack web developer located in New York.</h3>
 
-- 🔭 I’m currently working at[Underdog Devs](https://www.underdogdevs.org/)
+- 🔭 I’m currently working at [Underdog Devs](https://www.underdogdevs.org/)
 
 - 🌱 I’m currently learning **Python, Tailwind, AWS**
 
