@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Underdog Devs](https://www.underdogdevs.org/)
 
-- 🌱 I’m currently learning **Python, Tailwind, AWS**
+- 🌱 I’m currently learning **Typescript, TailwindCSS, AWS**
 
 - 📫 How to reach me **nathan97cai@gmail.com**
 
