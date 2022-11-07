@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Nathan!</h1>
 <h3 align="center">I'm a full stack web developer located in New York.</h3>
 
-- 🔭 I’m currently working at [Underdog Devs](https://www.underdogdevs.org/)
+- 🔭 I’m currently looking for new opportunities!
 
-- 🌱 I’m currently learning **Typescript, TailwindCSS, AWS**
+- 🌱 I’m currently learning **Typescript and Ruby**
 
 - 📫 How to reach me **nathan97cai@gmail.com**
 
