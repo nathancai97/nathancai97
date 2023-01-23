@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Nathan!</h1>
 <h3 align="center">I'm a full stack web developer located in New York.</h3>
 
-- 🔭 I’m currently looking for new opportunities!
+- 🔭 I’m currently working at Clover!
 
-- 🌱 I’m currently learning **Typescript and Ruby**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **nathan97cai@gmail.com**
 
